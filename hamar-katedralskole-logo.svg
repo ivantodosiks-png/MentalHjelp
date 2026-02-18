@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="216" viewBox="0 0 216 216" role="img" aria-labelledby="title desc">
+  <title id="title">Hamar katedralskole logo</title>
+  <desc id="desc">Green shield with white details and text Hamar katedralskole.</desc>
+  <g transform="translate(0,2)">
+    <path d="M75 20h66v45c0 26-20 42-33 49C95 107 75 91 75 65z" fill="#00A05A"/>
+    <path d="M87 59l8-10 10 9 16-18 14 14 6-8 7 8v7l-7-8-6 8-14-14-16 18-10-9-8 10z" fill="#fff"/>
+    <path d="M120 66c0 8-4 12-8 16-4 4-8 8-8 14 0 9 7 16 16 16s16-7 16-16c0-8-5-13-11-18l-6 6c4 3 8 7 8 12 0 5-3 8-7 8s-7-3-7-8c0-3 2-6 5-10 4-5 10-11 10-20z" fill="#fff"/>
+  </g>
+  <text x="108" y="162" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-size="52" font-weight="700" fill="#0A0D14">Hamar</text>
+  <text x="108" y="195" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-size="38" font-weight="500" fill="#0A0D14">katedralskole</text>
+</svg>
